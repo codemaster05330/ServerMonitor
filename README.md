@@ -102,6 +102,3 @@ To run ServerMonitor via VSCode, simply start the debugger and choose "Flask [DE
 ````
 
 
-# License
-
-GNU General Public License (GPL v3.0) - [Christian Lutz](https://github.com/christianlutzcl/). Please have a look at the [LICENSE](LICENSE) for more details.
